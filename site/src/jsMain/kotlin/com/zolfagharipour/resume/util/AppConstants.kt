@@ -87,7 +87,7 @@ object AppConstants {
                 "The book will soon be available for purchase on Amazon, making it easily accessible to a wide audience."
 
             const val DOWNLOAD = "Download"
-            const val DEMO_DOWNLOAD_LINK = "https://raw.githubusercontent.com/hzolfagharipour/portfolio/853b1d644a74b238be912ee5e35a549034be34b5/docs/Coroutine-Flow.pdf"
+            const val DEMO_DOWNLOAD_LINK = "https://raw.githubusercontent.com/hzolfagharipour/portfolio/c43abebe32ff79e25b7eb60fead7635b2870750e/docs/Coroutine-Flow.pdf"
         }
 
         object Portfolio {
