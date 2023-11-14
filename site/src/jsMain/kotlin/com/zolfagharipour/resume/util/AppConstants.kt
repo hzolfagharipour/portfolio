@@ -186,7 +186,7 @@ object AppConstants {
 
         object AppStore {
 
-            const val TITLE = "App Sore"
+            const val TITLE = "App Store"
             val INTRO_DES = listOf("This comprehensive application is built for a private organization to manage all in-house apps. Offering a diverse array of functionalities, discover its rich feature set, which includes:")
             val INTRO_FEA = listOf(
                 "Download android apps with in-app download service",
